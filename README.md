@@ -14,7 +14,7 @@
 
 ### 🔥 About Me
 
-- 🔭 I'm currently working on: **React, Express, Node.js, MongoDB, Firebase, and Next.js projects**
+- 🔭 I'm currently working on: **React, Express, Node.js, MongoDB, Firebase, and Next.js [projects 🔗](https://github.com/AbdullahAlZubaerOfficial/Doctor-Client-New)** 
 - 🌱 I'm currently learning: **DevOps 🚀**
 - 💻 Codeforces Rating: **982** → [Visit Profile 🔗](https://codeforces.com/profile/zubaerislam703)
 - 🌐 My Portfolio: [profile-v1-eight.vercel.app](https://profile-v1-eight.vercel.app/)
