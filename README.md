@@ -91,8 +91,10 @@ I am a passionate Full Stack Developer focused on building scalable, production-
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://github.com/AbdullahAlZubaerOfficial.png?size=200" alt="Profile" />
-</p>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAlZubaerOfficial&theme=react-dark&hide_border=true"
+  />
+</p
 
 ---
 
