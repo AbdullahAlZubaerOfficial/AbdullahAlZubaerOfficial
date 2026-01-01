@@ -25,7 +25,7 @@ I am a passionate Full Stack Developer focused on building scalable, production-
 - Working with **React, Next.js, Node.js, NestJS, MongoDB, PostgreSQL, Go**
 - Learning **Cloud Infrastructure, AWS, DevOps, and System Design**
 - Competitive Programmer  
-  Codeforces Rating: **982**  
+  Codeforces Rating: **1320**  
   Profile: [codeforces.com/profile/zubaerislam703](https://codeforces.com/profile/zubaerislam703)
 - Portfolio: [profile-v1-eight.vercel.app](https://profile-v1-eight.vercel.app)
 - Email: **zubaerislam703@gmail.com**
