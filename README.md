@@ -13,23 +13,20 @@ Full Stack Developer | Competitive Programmer | Mentor | Entrepreneur
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdullahAlZubaerOfficial&label=Profile+Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/AbdullahAlZubaerOfficial?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/AbdullahAlZubaerOfficial?label=Stars&style=social" />
 </p>
 
 ---
 
 ## About Me
 
-I am a passionate Full Stack Developer with strong experience in building scalable web applications and modern software solutions. I focus on clean architecture, performance optimization, and user-centric design.
+I am a dedicated Full Stack Developer focused on building scalable, high-performance web applications with modern technologies and clean architecture.
 
 - Currently working at **Join Venture AI (Concern of Betopia Group)** as a **Next.js Developer**
-- Actively building production-level applications using **React, Next.js, Node.js, NestJS, MongoDB, PostgreSQL**
-- Exploring **DevOps, Cloud Infrastructure, and System Design**
-- Competitive Programming enthusiast  
-  **Codeforces Rating:** 982  
-  **Profile:** https://codeforces.com/profile/zubaerislam703
+- Working with **React, Next.js, Node.js, NestJS, MongoDB, PostgreSQL, Go**
+- Learning **Cloud Infrastructure, DevOps, and System Design**
+- Competitive Programming (Codeforces Rating: 982)  
+  Profile: https://codeforces.com/profile/zubaerislam703
 - Portfolio: https://profile-v1-eight.vercel.app
-- Comfortable discussing **React, Next.js, Firebase, Tailwind CSS, Git, Databases, Backend APIs**
 - Email: zubaerislam703@gmail.com
 
 ---
@@ -37,8 +34,7 @@ I am a passionate Full Stack Developer with strong experience in building scalab
 ## Tech Stack
 
 ### Frontend
-- HTML5, CSS3
-- JavaScript (ES6+), TypeScript
+- HTML5, CSS3, JavaScript, TypeScript
 - React.js, Next.js
 - Tailwind CSS
 - Flutter, Dart
@@ -47,25 +43,16 @@ I am a passionate Full Stack Developer with strong experience in building scalab
 - Node.js, Express.js
 - NestJS
 - Go (Golang)
-- REST API Design
-- Authentication & Authorization
 
 ### Databases
 - MongoDB
 - PostgreSQL
 - Firebase
 
-### Cloud & DevOps
-- AWS (EC2, S3, IAM – basic to intermediate)
-- Deployment & Hosting
-- CI/CD Basics
-
-### Tools & Others
+### Cloud & Tools
+- AWS
 - Git & GitHub
-- VS Code
-- Figma
-- Postman
-- Linux Basics
+- VS Code, Figma, Postman
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,go,mongodb,postgresql,firebase,aws,flutter,dart,tailwind,git,figma,vscode,express" />
@@ -76,8 +63,14 @@ I am a passionate Full Stack Developer with strong experience in building scalab
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAlZubaerOfficial&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlZubaerOfficial&theme=react&hide_border=true" width="48%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=AbdullahAlZubaerOfficial&show_icons=true&theme=react&hide_border=true&cache_seconds=1800"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlZubaerOfficial&theme=react&hide_border=true"
+    width="48%"
+  />
 </p>
 
 ---
@@ -86,7 +79,7 @@ I am a passionate Full Stack Developer with strong experience in building scalab
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlZubaerOfficial&layout=compact&theme=react&hide_border=true&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlZubaerOfficial&layout=compact&theme=react&hide_border=true&langs_count=10&cache_seconds=1800"
   />
 </p>
 
@@ -108,8 +101,7 @@ I am a passionate Full Stack Developer with strong experience in building scalab
 - Backend API & System Design
 - Cloud-ready Application Deployment
 - SEO & Digital Growth Strategy
-- Technical Content Creation
-- Mentorship for Programming, ICT, and Mathematics
+- Technical Mentorship
 
 ---
 
@@ -133,5 +125,5 @@ I am a passionate Full Stack Developer with strong experience in building scalab
 ---
 
 <p align="center">
-Thank you for visiting my profile. Feel free to explore my repositories and connect.
+Thank you for visiting my GitHub profile.
 </p>
