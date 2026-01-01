@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al Zubaer</h1>
-<h3 align="center"> Full Stack MERN Developer |  Digital Marketer | Tech Mentor</h3>
+<h1 align="center">Hi , I'm Abdullah Al Zubaer</h1>
+<h3 align="center"> Full Stack Developer | Competetive Programmer | Mentor | Entrepreneur </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C1FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Web+Developer;React.js+%7C+Node.js;+Next.js+%7C+MongoDB;+SEO+%7C+Marketing+%7C+Mentoring" alt="Typing SVG" />
@@ -12,19 +12,19 @@
 
 ---
 
-### 🔥 About Me
-
-- 🔭 I'm currently working on: **React, Express, Node.js, MongoDB, Firebase, and Next.js [projects 🔗](https://github.com/AbdullahAlZubaerOfficial/Doctor-Client-New)** 
-- 🌱 I'm currently learning: **DevOps 🚀**
-- 💻 Codeforces Rating: **982** → [Visit Profile 🔗](https://codeforces.com/profile/zubaerislam703)
-- 🌐 My Portfolio: [profile-v1-eight.vercel.app](https://profile-v1-eight.vercel.app/)
-- 💬 Ask me about: **React, Firebase, Tailwind, Git, MongoDB, Node.js, Next.js**
-- 📫 Email me: **zubaerislam703@gmail.com**
-- ⚡ Fun fact: **I believe "Learning never stops!"** 🧠
+###  About Me
+- I'm currently working at Join Venture AI , concern of betopia group as a Next.js Developer .
+- I'm currently working on: **React, Express, Node.js, MongoDB, Firebase, and Next.js [projects 🔗](https://github.com/AbdullahAlZubaerOfficial/Doctor-Client-New)** 
+- I'm currently learning: **DevOps **
+- Codeforces Rating: **982** → [Visit Profile 🔗](https://codeforces.com/profile/zubaerislam703)
+- My Portfolio: [profile-v1-eight.vercel.app](https://profile-v1-eight.vercel.app/)
+- Ask me about: **React, Firebase, Tailwind, Git, MongoDB, Node.js, Next.js**
+- Email me: **zubaerislam703@gmail.com**
+- Fun fact: **I believe "Learning never stops!"** 
 
 ---
 
-### 🚀 Languages & Tools
+###  Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,mongodb,tailwind,firebase,git,vscode,figma,express" />
@@ -32,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAlZubaerOfficial&show_icons=true&theme=react&locale=en" width="48%" />
@@ -41,7 +41,7 @@
 
 ---
 
-### 💻 Most Used Languages
+###  Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlZubaerOfficial&layout=compact&theme=react&hide_border=true&langs_count=8" alt="Most Used Languages" />
@@ -49,7 +49,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAlZubaerOfficial&theme=react-dark" />
@@ -57,12 +57,12 @@
 
 ---
 
-### 🧠 What I Do
+###  What I Do
 
-- ✨ Web App Development: **React, Node.js, Next.js, MongoDB, Firebase**
-- 🎯 SEO & Marketing: **Ranking, Social Media Growth, Analytics**
-- � Content Creation: **Image/Video Editing for Tech & Sports**
-- 👨‍🏫 Mentorship: **ICT, Math, Programming for Beginners**
+- Web App Development: **React, Node.js, Next.js,Next.js, Postgresql, MongoDB, Firebase**
+- SEO & Marketing: **Ranking, Social Media Growth, Analytics**
+- Content Creation: **Image/Video Editing for Tech & Sports**
+- Mentorship: **ICT, Math, Programming for Beginners**
 
 ---
 
@@ -85,4 +85,4 @@
 
 ---
 
-<p align="center">🧡 _Thank you for visiting my profile! Feel free to connect._ 🤝</p>
+<p align="center"> _Thank you for visiting my profile! Feel free to connect._ </p>
