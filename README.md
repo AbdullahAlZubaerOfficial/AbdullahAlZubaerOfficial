@@ -62,12 +62,13 @@ I am a passionate Full Stack Developer focused on building scalable, production-
 
 ---
 
-## GitHub Stats (Permanent, 100% Working)
+## GitHub Stats
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/AbdullahAlZubaerOfficial?label=Followers&style=flat-square" />
   <img src="https://img.shields.io/github/stars/AbdullahAlZubaerOfficial?label=Stars&style=flat-square" />
-  <img src="https://img.shields.io/github/repos/AbdullahAlZubaerOfficial?label=Public+Repos&style=flat-square" />
+<img src="https://img.shields.io/github/repo-count/AbdullahAlZubaerOfficial?style=flat-square&label=Public+Repos" />
+
 </p>
 
 ---
