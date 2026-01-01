@@ -5,7 +5,7 @@ Full Stack Developer | Competitive Programmer | Mentor | Entrepreneur
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C1FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;MERN+Stack+%7C+Next.js+%7C+NestJS;Go+%7C+AWS+%7C+PostgreSQL;Problem+Solver+%7C+Mentor"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00C1FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Web+Developer;MERN+Stack+%7C+Next.js+%7C+NestJS;Go+%7C+AWS+%7C+PostgreSQL;Problem+Solver+%7C+Mentor"
     alt="Typing SVG"
   />
 </p>
@@ -19,22 +19,24 @@ Full Stack Developer | Competitive Programmer | Mentor | Entrepreneur
 
 ## About Me
 
-I am a dedicated Full Stack Developer focused on building scalable, high-performance web applications with modern technologies and clean architecture.
+I am a passionate Full Stack Developer focused on building scalable, production-ready applications using modern technologies and clean architecture principles.
 
 - Currently working at **Join Venture AI (Concern of Betopia Group)** as a **Next.js Developer**
 - Working with **React, Next.js, Node.js, NestJS, MongoDB, PostgreSQL, Go**
-- Learning **Cloud Infrastructure, DevOps, and System Design**
-- Competitive Programming (Codeforces Rating: 982)  
+- Learning **Cloud Infrastructure, AWS, DevOps, and System Design**
+- Competitive Programmer  
+  Codeforces Rating: **982**  
   Profile: https://codeforces.com/profile/zubaerislam703
 - Portfolio: https://profile-v1-eight.vercel.app
-- Email: zubaerislam703@gmail.com
+- Email: **zubaerislam703@gmail.com**
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-- HTML5, CSS3, JavaScript, TypeScript
+- HTML5, CSS3
+- JavaScript, TypeScript
 - React.js, Next.js
 - Tailwind CSS
 - Flutter, Dart
@@ -64,11 +66,11 @@ I am a dedicated Full Stack Developer focused on building scalable, high-perform
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AbdullahAlZubaerOfficial&show_icons=true&theme=react&hide_border=true&cache_seconds=1800"
+    src="https://stats.quine.sh/AbdullahAlZubaerOfficial/github?theme=dark"
     width="48%"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlZubaerOfficial&theme=react&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahAlZubaerOfficial&theme=dark&hide_border=true"
     width="48%"
   />
 </p>
@@ -79,7 +81,7 @@ I am a dedicated Full Stack Developer focused on building scalable, high-perform
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlZubaerOfficial&layout=compact&theme=react&hide_border=true&langs_count=10&cache_seconds=1800"
+    src="https://stats.quine.sh/AbdullahAlZubaerOfficial/languages?theme=dark"
   />
 </p>
 
@@ -101,7 +103,7 @@ I am a dedicated Full Stack Developer focused on building scalable, high-perform
 - Backend API & System Design
 - Cloud-ready Application Deployment
 - SEO & Digital Growth Strategy
-- Technical Mentorship
+- Technical Mentorship (ICT, Programming, Math)
 
 ---
 
@@ -125,5 +127,5 @@ I am a dedicated Full Stack Developer focused on building scalable, high-perform
 ---
 
 <p align="center">
-Thank you for visiting my GitHub profile.
+Thank you for visiting my GitHub profile. Feel free to explore my repositories and connect with me.
 </p>
