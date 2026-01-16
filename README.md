@@ -37,7 +37,7 @@ I am a passionate Full Stack Developer focused on building scalable, production-
 ### Frontend
 - HTML5, CSS3
 - JavaScript, TypeScript
-- React.js, Next.js
+- React.js, Next.js, React native
 - Tailwind CSS
 - Flutter, Dart
 
